@@ -1,1 +1,2 @@
 # Water-Quality-Prediction
+This Project aims to develop a predictive model for water quality that can help identify potential contamination sources and mitigate associated risks. The project also select many attributes such as bacteria,virus,ammonia,aluminium etc, to train a machine learning model that can accurately predict water quality at different locations and time periods. The predictive model will be validated using historical data and evaluated based on its performance in predicting water quality changes under different scenarios.
